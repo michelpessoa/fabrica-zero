@@ -1,0 +1,13 @@
+project: "ZERO"
+framework_version: "2.3.2"
+documents:
+  - id: SDD-ZERO-0001
+    type: SDD
+    title: "Pacote temperatura: converter(valor, de, para) entre Celsius, Fahrenheit e Kelvin"
+    status: approved
+    owner: "Michel Pessoa"
+    created: "2026-11-05"
+    updated: "2026-11-05"
+    relates_to: []
+    path: "docs/sdd/SDD-ZERO-0001.md"
+    tags: [fabrica-descoberta]
